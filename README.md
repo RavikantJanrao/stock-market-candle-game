@@ -10,9 +10,11 @@ It is a learning-oriented trading simulator and does not involve real-money trad
 
 ## Play the Game
 
-🎮 **Play Stock Market Candle Trading Game**
+🎮 **[Play Stock Market Candle Trading Game](https://stockradiance.com/games/candle-game/)**
 
-https://stockradiance.com/games/candle-game/
+## Game Preview
+
+<img width="1366" height="768" alt="Stock Market Candle Trading Game Preview" src="https://github.com/user-attachments/assets/d1e9b806-d2e3-45e4-a439-7305d44da712" />
 
 ## Features
 
@@ -44,17 +46,15 @@ The game should not be considered financial advice or a recommendation to buy or
 
 StockRadiance provides stock market research, educational content, market analysis tools, trading-related resources, and financial learning content for Indian market participants.
 
-🌐 **Visit StockRadiance**
+🌐 **[Visit StockRadiance](https://stockradiance.com/)**
 
-https://stockradiance.com/
+## Game Website
+
+🎮 **[Play the Game](https://stockradiance.com/games/candle-game/)**
 
 ## Website
 
-https://stockradiance.com/
-
-## Game
-
-https://stockradiance.com/games/candle-game/
+🌐 **[StockRadiance](https://stockradiance.com/)**
 
 ## Disclaimer
 
